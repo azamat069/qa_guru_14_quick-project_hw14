@@ -54,3 +54,4 @@
 ## Telegram отчет
 <img src="resources/telegram_report.png"/>
 
+
