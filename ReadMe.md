@@ -49,3 +49,4 @@
 
 ---
 Видео прохождения теста
+<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/selenoid_test_case.mp4"/>
