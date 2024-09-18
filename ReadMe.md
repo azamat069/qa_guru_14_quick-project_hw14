@@ -10,12 +10,12 @@
 ---
 ## Используемый стек:
 <p align="left">
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/python-original-wordmark.svg" width="50" height="50"/>
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/pytest-original-wordmark.svg" width="50" height="50"/>
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/Selenium.png" width="50" height="50"/>
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/jenkins-original.svg" width="50" height="50"/>
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/AllureReport.png" width="50" height="50"/>
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/Selenoid.png" width="50" height="50"/>
+<img src="resources/python-original-wordmark.svg" width="50" height="50"/>
+<img src="resources/pytest-original-wordmark.svg" width="50" height="50"/>
+<img src="resources/Selenium.png" width="50" height="50"/>
+<img src="resources/jenkins-original.svg" width="50" height="50"/>
+<img src="resources/AllureReport.png" width="50" height="50"/>
+<img src="resources/Selenoid.png" width="50" height="50"/>
 
 </p>
 
@@ -33,20 +33,24 @@
 ## Инструкция по запуску:
 1. Перейти по ссылке в [сборку](https://jenkins.autotests.cloud/job/qa_guru_14_quick_project_hw14/)
 2. Нажать Build Now
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/Jenkins_Build_Now.png"/>
+<img src="resources/Jenkins_Build_Now.png"/>
 
 ---
 ## Allure отчет о прохождении тестов
 ### Общий резкльтат прохождения тестов
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/allure_general_report.png"/>
+<img src="resources/allure_general_report.png"/>
 
 ### Графики
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/allure_grafics.png"/>
+<img src="resources/allure_grafics.png"/>
 
 
 ### Подробный отчет о прохождении
-<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/allure_detailed_report.png"/>
+<img src="resources/allure_detailed_report.png"/>
+
+### Видео прохождения теста
+<img src="resources/selenoid_file.gif"/>
 
 ---
-Видео прохождения теста
-<video src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/selenoid_test_case.mp4"/>
+## Telegram отчет
+<img src="resources/telegram_report.png"/>
+
