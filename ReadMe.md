@@ -33,6 +33,7 @@
 ## Инструкция по запуску:
 1. Перейти по ссылке в [сборку](https://jenkins.autotests.cloud/job/qa_guru_14_quick_project_hw14/)
 2. Нажать Build Now
+<img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/Jenkins_Build_Now.png"/>
 
 ---
 ## Allure отчет о прохождении тестов
@@ -44,5 +45,4 @@
 
 
 ### Подробный отчет о прохождении
-
 <img src="https://github.com/azamat069/qa_guru_14_quick-project_hw14/blob/main/resources/allure_detailed_report.png"/>
