@@ -52,6 +52,6 @@
 
 ---
 ## Telegram отчет
-<img src="resources/telegram_report.png"/>
+<img src="resources/telegram_allure_report.png"/>
 
 
