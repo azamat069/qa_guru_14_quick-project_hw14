@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "QA Guru project",
+    "environment": "STAGE",
+    "comment": "local notification",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "7353223730:AAHE357nACnjAeg6sEns71FcgpisYWnGso8",
+    "chat": "-1002422534064",
+    "replyTo": ""
+  }
+}
