@@ -10,12 +10,12 @@
 ---
 ## Используемый стек:
 <p align="left">
-<img src="resources/python-original-wordmark.svg" width="50" height="50"/>
-<img src="resources/pytest-original-wordmark.svg" width="50" height="50"/>
-<img src="resources/Selenium.png" width="50" height="50"/>
-<img src="resources/jenkins-original.svg" width="50" height="50"/>
-<img src="resources/AllureReport.png" width="50" height="50"/>
-<img src="resources/Selenoid.png" width="50" height="50"/>
+<img src="media/python-original-wordmark.svg" width="50" height="50"/>
+<img src="media/pytest-original-wordmark.svg" width="50" height="50"/>
+<img src="media/Selenium.png" width="50" height="50"/>
+<img src="media/jenkins-original.svg" width="50" height="50"/>
+<img src="media/AllureReport.png" width="50" height="50"/>
+<img src="media/Selenoid.png" width="50" height="50"/>
 
 </p>
 
@@ -33,25 +33,25 @@
 ## Инструкция по запуску:
 1. Перейти по ссылке в [сборку](https://jenkins.autotests.cloud/job/qa_guru_14_quick_project_hw14/)
 2. Нажать Build Now
-<img src="resources/Jenkins_Build_Now.png"/>
+<img src="media/Jenkins_Build_Now.png"/>
 
 ---
 ## Allure отчет о прохождении тестов
 ### Общий результат прохождения тестов
-<img src="resources/allure_general_report.png"/>
+<img src="media/allure_general_report.png"/>
 
 ### Графики
-<img src="resources/allure_grafics.png"/>
+<img src="media/allure_grafics.png"/>
 
 
 ### Подробный отчет о прохождении
-<img src="resources/allure_detailed_report.png"/>
+<img src="media/allure_detailed_report.png"/>
 
 ### Видео прохождения теста
-<img src="resources/selenoid_file.gif"/>
+<img src="media/selenoid_file.gif"/>
 
 ---
 ## Telegram отчет
-<img src="resources/telegram_allure_report.png"/>
+<img src="media/telegram_allure_report.png"/>
 
 
