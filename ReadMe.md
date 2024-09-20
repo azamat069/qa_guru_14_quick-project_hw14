@@ -30,11 +30,16 @@
 Так же в Jenkins будет доступен подробный отчет Allure
 
 ---
-## Инструкция по запуску:
+## Инструкция по удаленному запуску тестов:
 1. Перейти по ссылке в [сборку](https://jenkins.autotests.cloud/job/qa_guru_14_quick_project_hw14/)
 2. Нажать Build Now
 <img src="media/Jenkins_Build_Now.png"/>
 
+## Инструкция по локальному запуску тестов:
+1. Запустить команду Pytest
+2. Заупстить команду allure serve tests/allure-results - для генерации Allure отчета
+3. Запустить команду allure generate --clean tests/allure-results для генерации allure report
+4. Запустить команду java "-DconfigFile=notifications/telegram.json" -jar allure-notifications-4.7.0.jar для получения отчета от телеграм бота
 ---
 ## Allure отчет о прохождении тестов
 ### Общий результат прохождения тестов
