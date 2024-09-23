@@ -12,3 +12,4 @@ class TestAuth:
     def test_auth_modal(self):
         main_page.open_main_page()
         main_page.click_auth_button()
+        main_page.check_auth_modal_is_opened()
