@@ -107,7 +107,6 @@ class MainPage:
         browser.all('.alm-reveal .post').should(have.size(12))
 
 
-
 main_page = MainPage()
 
 
